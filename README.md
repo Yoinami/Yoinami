@@ -36,8 +36,8 @@ I like to code :)
 
 **Backend:**  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-4a4a4a.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4a4a4a?style=for-the-badge&logo=spring-boot&logoColor=%6DB33F)
 ![Node.js](https://img.shields.io/badge/node.js-f0f0f0.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
