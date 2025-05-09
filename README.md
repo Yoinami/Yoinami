@@ -61,10 +61,11 @@ I like to code :)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<center>
+
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yoinami&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yoinami&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoinami&langs_count=6&theme=tokyonight&layout=compact&hide_border=true)
-</center>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yoinami&show_icons=true&theme=tokyonight&hide_border=true" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoinami&theme=tokyonight&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoinami&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" /><br/>
+</p>
